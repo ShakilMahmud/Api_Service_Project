@@ -37,7 +37,7 @@ Logout
 ```sh
   $ http://127.0.0.1:8000/logout/
 ```
-Data Form
+Data Input Form
 ```sh
   $ http://127.0.0.1:8000/
 ```
