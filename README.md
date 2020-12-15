@@ -6,8 +6,8 @@ It is best to use the python `virtualenv` tool to build locally:
 - **Clone the repository**
 
 ```sh
- $ git clone https://github.com/nazmul1487/Api-Service
- $ cd Api-Service
+ $ git clone https://github.com/ShakilMahmud/Api_Service_Project
+ $ cd Api_Service_Project
 ```
 
 - **Setup Virtual environment** 
